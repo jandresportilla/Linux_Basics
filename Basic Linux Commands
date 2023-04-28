@@ -1,0 +1,23 @@
+To print the present working directory. Run pwd command
+$ pwd
+
+To see the contents of the directory. Run ls command
+$ ls 
+
+To make (or) create a directory. Run mkdir command
+$ mkdir Asia
+
+To make (or) create multiple directories. Run mkdir command followed by <directory_name1> <directory_name2> .. <directory_nameN>
+$ mkdir Europe Africa America
+
+To change a directory from the current directory. Run cd <directory_name>
+$ cd Asia
+
+To recursively created directories. Run mkdir -p <directory_name1>/<sub_directory_of_name1>
+$ mkdir -p India/Mumbai
+
+To go back to one directory up. Run cd ..
+$ cd ..
+
+To go back directly to a home directory of the current user from any location in the system. Run cd
+$ cd
