@@ -1,0 +1,5 @@
+cat    # Vies the entire content of a file
+more   # Views the content of a file, one page at time
+less   # Views the content of a page in reverse order
+head   # first lines
+tail   # 
