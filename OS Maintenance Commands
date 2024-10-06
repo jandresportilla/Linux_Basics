@@ -1,0 +1,4 @@
+shutdown
+init 0-6
+reboot
+halt
