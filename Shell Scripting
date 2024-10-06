@@ -1,0 +1,14 @@
+What is a Shell Script?
+
+A shell script is an executable file containing multiple shell commands that are executed sequentially. 
+The file can contain:
+
+Shell  (#!/bin/bash)
+Comments (# comments)
+Commands (echo, cp, grep, etc...)
+statements (if, while, for...)
+
+
+Shell script should have executable permissions
+Shell script has to be called from absolute path (e.g  /home/userdir/script.bash)
+If called from current location then ./script.bash
