@@ -1,0 +1,8 @@
+Creating FILES:
+    touch    # Create a file that is of course an Empity File 
+    cp       # other way, create a file is if you are Copying an Existing File
+    vi       # third way, VI is our editor
+
+
+Creating DIRECTPRIES:
+    mkdir    # MaKe DIRectory
