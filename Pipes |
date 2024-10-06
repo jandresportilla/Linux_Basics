@@ -1,0 +1,5 @@
+A pipe is used by the shell to connect the output of one command directly to the input of another command.
+
+The Symbol for a pipe is the vertical bar ( | ). The command syntaxis is:
+
+   command1 [arguments]  |  command2 [arguments]
