@@ -1,0 +1,14 @@
+Application = Service
+Script
+Process
+Daemon
+Threads
+Job
+
+systemctl or  service
+ps
+top
+kill
+crontab
+at
+
