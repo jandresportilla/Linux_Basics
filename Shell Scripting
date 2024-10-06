@@ -12,3 +12,16 @@ statements (if, while, for...)
 Shell script should have executable permissions
 Shell script has to be called from absolute path (e.g  /home/userdir/script.bash)
 If called from current location then ./script.bash
+
+
+
+
+
+Out to screen using "echo"
+
+Creating tasks:
+   Telling yourid, current location, your files/directories, system info
+   Creating files or directories
+   Outut to a file ">"
+
+Filters/text processors through scripts (cut, awk, grep, sort, uniq, wc)
